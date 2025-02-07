@@ -45,8 +45,9 @@ A continuous deployment pipeline is created using **AWS CodePipeline**:
 ## Screenshots
 ![Creating Bucket Steup](https://github.com/user-attachments/assets/6aa5c189-4e3e-4e44-8b9d-6137e4a95487)
 ![Json policies stepup](https://github.com/user-attachments/assets/4ae43ca6-2083-4541-817d-a82bc93783d3)
-![Codepileline stepup](URL_TO_IMAGE](https://github.com/user-attachments/assets/643a50fa-3690-4641-9ede-eb363ebb5ae8))
-![Home page of website with running in S3 static website](URL_TO_IMAGE](https://github.com/user-attachments/assets/f79b9eb5-e564-4db2-b063-f0085cc97224))
+![Codepileline stepup](https://github.com/user-attachments/assets/643a50fa-3690-4641-9ede-eb363ebb5ae8)
+![Home page of website with running in S3 static website](https://github.com/user-attachments/assets/f79b9eb5-e564-4db2-b063-f0085cc97224)
+
 
 
 ---
